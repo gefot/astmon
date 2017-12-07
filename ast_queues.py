@@ -84,7 +84,6 @@ try:
 except:
 	pass
 
-
 #print '<div class="container" style="max-width:1200px">'
 print '<div class="container">'
 print '<table class="table table-bordered table-striped">'
