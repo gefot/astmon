@@ -20,6 +20,7 @@ AMI_PASS = str(data["ami"]["password"])
 AST_QUEUE_STATS_FILE = str(data["queues"]["ast_queue_stats"])
 
 
+
 #########################################################################################################################################
 # Print HTML
 MOD_html_funcs.print_html_header_auto_ref()
