@@ -6,6 +6,7 @@ import MySQLdb as mariadb
 import json
 
 
+
 #########################################################################################################################################
 # Contact Variables
 data = json.load(open('/etc/my_json.json'))
